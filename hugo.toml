@@ -1,4 +1,4 @@
-baseURL = "https://rcblogs.in/"
+baseURL = "https://rcblogs.in"
 languageCode = "en-IN"
 title = "Raghav's Finance Blog"
 theme = "ananke"
